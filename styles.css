@@ -1,0 +1,78 @@
+/* Reset some default styles to ensure consistent rendering */
+body, h1, h2, h3, p, ul, ol, li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set a background color and text color for the entire page */
+body {
+    background-color: #f0f0f0; /* Change to your preferred background color */
+    color: #333; /* Change to your preferred text color */
+    font-family: Arial, sans-serif; /* Use a web-safe font or specify your own */
+}
+
+/* Style the header section */
+header {
+    background-color: gold; /* Change to your preferred header background color */
+    color: #fff; /* Change to your preferred header text color */
+    text-align: center;
+    padding: 20px 0;
+    margin-bottom: -5px;
+}
+
+/* Style the main content section */
+.main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Style the currency converter form */
+.converter {
+    background-color: purple;
+    padding: 20px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    text-align: right;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    text-align: left;
+    background-color: white;
+    width: 80px;
+}
+
+select, input, button {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100px;
+    height: 50px;
+}
+
+button {
+    display: block;
+    background-color:  #007bff; /* Change to your preferred button color */
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.result {
+    color: white;
+}
+
+/* Style the footer section */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+/* Add responsive styles for smaller screens if needed */
+

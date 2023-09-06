@@ -2,7 +2,7 @@
 # 📗 Table of Contents.g
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Portfolio ](#-portfolio-)
+- [📖 Currency ](#-Currency-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -19,9 +19,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Portfolio <a name="about-project"></a>
+# 📖 Currency-converter <a name="about-project"></a>
 
-**Portfolio** is a showcase of my skills and abilities
+**Currency-converter** is a tool, application, or service that allows users to convert the value of one currency into the equivalent value of another currency. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -119,11 +119,11 @@ I would like to thank you all who helped me in this project.
 
 > **Question**
 
-- what is the purpose of the Portfolio?
+- what is the purpose of the Currency-converter?
 
 > **Answer**
 
-- a portfolio is a showcase of a student's achievements, skills and abilities to attract employers and investore
+- a currency converter is to quickly and accurately convert the value of one currency into another, helping users understand and work with different currencies when traveling, making international transactions, or monitoring exchange rates.
 
 
 
